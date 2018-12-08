@@ -1,4 +1,4 @@
-# Uviperv-Connected
+# UviPerv-Connected
 
 It has ESP8266 based projects.
 
